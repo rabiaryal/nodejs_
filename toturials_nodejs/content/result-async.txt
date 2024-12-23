@@ -1,0 +1,2 @@
+HEre is the results : hello this is the text file written by me myself, helllo this is the second file
+, i am writing this to us the default module called fs
